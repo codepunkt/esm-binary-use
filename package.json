@@ -13,5 +13,8 @@
   "dependencies": {
     "@codepunkt/esm-binary-provide": "github:codepunkt/esm-binary-provide"
   },
+  "scripts": {
+    "start": "esm-binary-provide"
+  },
   "devDependencies": {}
 }
