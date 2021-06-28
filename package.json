@@ -10,6 +10,8 @@
   "bugs": {
     "url": "https://github.com/codepunkt/esm-binary-use/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@codepunkt/esm-binary-provide": "github:codepunkt/esm-binary-provide"
+  },
   "devDependencies": {}
 }
